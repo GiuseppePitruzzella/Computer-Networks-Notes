@@ -33,4 +33,6 @@ do
 		read lan
 		VBoxManage modifyvm $name --nic$j intnet --intnet$j $lan  
 	done
+
+	VBoxManage startvm $name --type headless
 done 
