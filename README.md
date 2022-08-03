@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Welcome to Computer-Networks-Notes 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
@@ -63,3 +64,7 @@ This project is [GPL--3.0](https://github.com/GiuseppePitruzzella/Computer-Netwo
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+=======
+# Computer-Networks
+Notes and exercises for the course of Reti di Calcolatori 📚🔗
+>>>>>>> adf0f04fabcc4b9d907ab6d0274499cd3913389c
