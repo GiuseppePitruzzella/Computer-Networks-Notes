@@ -23,7 +23,7 @@ WIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIP
 👤 **Giuseppe Pitruzzella**
 
 * Website: https://giuseppepitruzzella.github.io/
-* GitHub: [@Jax](https://github.com/Jax)
+* GitHub: [@Jax](https://github.com/GiuseppePitruzzella)
 
 ## 🤝 Contributing
 
