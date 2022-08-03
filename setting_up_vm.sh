@@ -12,7 +12,7 @@ VBoxManage snapshot $main take Snapshot
 # Creating hosts
 for (( i=1; i<=$n; i++ )) 
 do
-	printf "Creating host " $i "\n"
+	printf "Creating host $i \n"
 	# printf "Crezione dell'host" $i
 	printf "Insert the name for the host (e.g. A): \n"
 	read name
@@ -21,7 +21,7 @@ do
 	
 	# Network settings
 	# N.B. Set "Internal Network" by default
-	printf "Setting up network for host" $name
+	printf "Setting up network for host $name \n"
 
 	# Number of interfaces per host
 	printf "Insert number of interfaces per host... \n"
