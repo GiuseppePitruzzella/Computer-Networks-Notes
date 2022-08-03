@@ -8,7 +8,7 @@ printf "Enter the name of the main VM: \n"
 read main
 
 # Creating snapshot of main VM
-VBoxManage snapshot debbie take Snapshot
+VBoxManage snapshot $main take Snapshot
 # Creating hosts
 for (( i=1; i<=$n; i++ )) 
 do
