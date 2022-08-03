@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Welcome to Computer-Networks-Notes 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
@@ -18,29 +17,6 @@
 > Notes and exercises for the course of Reti di Calcolatori 📚🔗
 
 ### 🏠 [Homepage](https://github.com/GiuseppePitruzzella/Computer-Networks)
-
-## Prerequisites
-
-- npm >=5.5.0
-- node >=9.3.0
-
-## Install
-
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
-
-## Run tests
-
-```sh
-npm run test
-```
 
 ## Author
 
