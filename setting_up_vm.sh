@@ -1,6 +1,5 @@
 #!/bin/bash
 # This script is used to set up the virtual machines.
-
 # Author: Giuseppe Pitruzzella
 
 # Number of hosts
