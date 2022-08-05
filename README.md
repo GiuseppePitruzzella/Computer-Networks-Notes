@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Computer-Networks-Notes 👋</h1>
+<h1 align="center">Welcome to Computer-Networks-Notes 📚🔗</h1>
 <p>
   <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
@@ -10,13 +10,13 @@
 
 > Notes and exercises for the course of Reti di Calcolatori 📚🔗
 
-### 🏠 [Homepage](https://github.com/GiuseppePitruzzella/Computer-Networks)
-
 ## Notes
-WIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIP
+Notes were written by me during 2020/2021 for the course of *Reti di Calcolatori* at University of Catania. <br />
+These notes are not checked by any qualified individual, and I offer no guarantee as to how accurate or complete these notes are. <br />
+All of my notes were relevant for my year, but the content for your course may have changed. <br />
 
-## Script
-WIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIP
+### Script
+`setting_up_vm.sh` script is used to create and set up the virtual machines.
 
 ## Author
 
@@ -27,7 +27,7 @@ WIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIPWIP
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
+Feel free to reach out to me if anything in the notes is unclear or incorrect. Contributions, issues and feature requests are welcome!<br />
 
 ## Show your support
 
