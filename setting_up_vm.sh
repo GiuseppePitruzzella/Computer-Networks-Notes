@@ -19,7 +19,7 @@ do
 	printf "Insert the name for the host (e.g. A): \n"
 	read name
 
-	VBoxManage clonevm debbie --snapshot Snapshot --name $name --options link --register
+	VBoxManage clonevm $main --snapshot Snapshot --name $name --options link --register
 	
 	# Network settings
 	# N.B. Set "Internal Network" by default
