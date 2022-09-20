@@ -1,0 +1,8 @@
+Per quanto riguarda fputs nel file per memorizzare i client registrati ho aggiunto fflush, non facendolo ottenevo problemi dato che il programma scriveva duplicati nel file.
+
+Un altro problema riscontrato è stata la conversione con npton da stringa a binario dell'ip memorizzati nel file, infatti veniva convertito in "0.0.0.0" non permettendo
+la connessione col client. A quanto pare fgets metteva un '\n' nel buffer, tuttavia anche usando strlen e buffer[len-1] non si levava per qualche motivo. SOLUZIONE -> indirizzi[strcspn(indirizzi, "\n")] = 0;
+
+Pulito un po' il codice ed i messaggi mostrati a video
+
+Aggiunta funzionalità di logout -> bug dopo che viene cancellato un indirizzo da listaUtenti.txt, vengono inseriti caratteri strani all'inserimento di nuovi utenti -> risolto aprendo listaUtenti.txt in "a+"

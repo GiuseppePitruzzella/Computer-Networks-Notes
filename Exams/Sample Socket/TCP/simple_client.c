@@ -6,6 +6,7 @@
 #include <unistd.h>
 #include <arpa/inet.h>
 #include <errno.h>
+
 #define DIM 1000
 
 int main(int argc, char**argv) { 
@@ -19,7 +20,7 @@ int main(int argc, char**argv) {
 
   // Input params check
   if (argc != 3) { 
-    printf("usage:  client IP_address <Port\n");
+    printf("usage: Client IP_address <Port\n");
     return 0;
   }
 

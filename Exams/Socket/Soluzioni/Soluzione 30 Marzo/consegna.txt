@@ -1,0 +1,4 @@
+Sender e receiver UDP. Il sender spedisce il proprio orario (data ed ora) al receiver tramite un pacchetto UDP. Il receiver stampa a video le informazioni ricevute.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEzMzI0MzY4XX0=
+-->

@@ -11,7 +11,7 @@
 > Notes and exercises for the course of Reti di Calcolatori 📚🔗
 
 ## Notes
-Notes were written by me during 2020/2021 for the course of *Reti di Calcolatori* at University of Catania. <br />
+Notes were written by me during 2021/2022 for the course of *Reti di Calcolatori* at University of Catania. <br />
 These notes are not checked by any qualified individual, and I offer no guarantee as to how accurate or complete these notes are. <br />
 All of my notes were relevant for my year, but the content for your course may have changed. <br />
 
